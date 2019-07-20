@@ -1,6 +1,6 @@
 ## code your solution here. 
-class cat
+class Cat
   
 end
 
-cat.new
+Cat.new
