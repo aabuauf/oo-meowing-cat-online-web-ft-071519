@@ -2,3 +2,5 @@
 class cat
   
 end
+
+cat.new
